@@ -1,0 +1,11 @@
+{
+  "name": "ecmascript6",
+  "version": "1.0.0",
+  "description": "entendiendo ecmascript",
+  "main": "inidex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "felipe aguilera",
+  "license": "ISC"
+}
